@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Patricia
-- 🌱 I’m currently learning C++, C#, Angular & Cloud computing
+- 🌱 I’m currently learning C++, C#, Angular, Cloud computing & Quantum computing
 - 🖥️ Working as a Mid Java Developer
 
 <!---
